@@ -1,0 +1,1 @@
+Latin letters, so the ASCII can decode this. UTF-8 can still read this.
